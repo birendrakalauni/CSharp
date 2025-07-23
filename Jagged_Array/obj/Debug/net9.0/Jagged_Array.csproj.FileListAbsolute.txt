@@ -1,0 +1,15 @@
+D:\CSharp\Jagged_Array\bin\Debug\net9.0\Jagged_Array.exe
+D:\CSharp\Jagged_Array\bin\Debug\net9.0\Jagged_Array.deps.json
+D:\CSharp\Jagged_Array\bin\Debug\net9.0\Jagged_Array.runtimeconfig.json
+D:\CSharp\Jagged_Array\bin\Debug\net9.0\Jagged_Array.dll
+D:\CSharp\Jagged_Array\bin\Debug\net9.0\Jagged_Array.pdb
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.AssemblyInfoInputs.cache
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.AssemblyInfo.cs
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.csproj.CoreCompileInputs.cache
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.sourcelink.json
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.dll
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\refint\Jagged_Array.dll
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.pdb
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\Jagged_Array.genruntimeconfig.cache
+D:\CSharp\Jagged_Array\obj\Debug\net9.0\ref\Jagged_Array.dll
