@@ -12,3 +12,4 @@ D:\CSharp\Array\obj\Debug\net9.0\refint\Array.dll
 D:\CSharp\Array\obj\Debug\net9.0\Array.pdb
 D:\CSharp\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
 D:\CSharp\Array\obj\Debug\net9.0\ref\Array.dll
+D:\CSharp\Array\obj\Debug\net9.0\Array.sourcelink.json
