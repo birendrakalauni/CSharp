@@ -1,0 +1,14 @@
+D:\CSharp\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+D:\CSharp\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+D:\CSharp\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+D:\CSharp\Array\bin\Debug\net9.0\Array.exe
+D:\CSharp\Array\bin\Debug\net9.0\Array.deps.json
+D:\CSharp\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+D:\CSharp\Array\bin\Debug\net9.0\Array.dll
+D:\CSharp\Array\bin\Debug\net9.0\Array.pdb
+D:\CSharp\Array\obj\Debug\net9.0\Array.dll
+D:\CSharp\Array\obj\Debug\net9.0\refint\Array.dll
+D:\CSharp\Array\obj\Debug\net9.0\Array.pdb
+D:\CSharp\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+D:\CSharp\Array\obj\Debug\net9.0\ref\Array.dll

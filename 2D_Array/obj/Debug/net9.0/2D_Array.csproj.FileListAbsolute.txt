@@ -1,0 +1,14 @@
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.AssemblyInfoInputs.cache
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.AssemblyInfo.cs
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.csproj.CoreCompileInputs.cache
+D:\CSharp\2D_Array\bin\Debug\net9.0\2D_Array.exe
+D:\CSharp\2D_Array\bin\Debug\net9.0\2D_Array.deps.json
+D:\CSharp\2D_Array\bin\Debug\net9.0\2D_Array.runtimeconfig.json
+D:\CSharp\2D_Array\bin\Debug\net9.0\2D_Array.dll
+D:\CSharp\2D_Array\bin\Debug\net9.0\2D_Array.pdb
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.dll
+D:\CSharp\2D_Array\obj\Debug\net9.0\refint\2D_Array.dll
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.pdb
+D:\CSharp\2D_Array\obj\Debug\net9.0\2D_Array.genruntimeconfig.cache
+D:\CSharp\2D_Array\obj\Debug\net9.0\ref\2D_Array.dll
