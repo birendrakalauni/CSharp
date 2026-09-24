@@ -28,3 +28,47 @@ namespace EvenOrOdd
         }
     }
 }
+
+
+// //cLASS
+// using System.Collections.Concurrent;
+// using System.Net;
+
+// // class book
+// // public void setPrice(string pric)
+// // {
+// //     Price = pric;
+// // }
+// // public void setauthor(string auth)
+// // {
+// //     Author = auth;
+// // }
+// // public void printBook(book);
+
+
+// // class Program
+// // static void Main(string[] args)
+// // {
+// //     Block Physics = new Block();
+// //     Physics.bookTitle("A book on phy");
+
+// // }
+
+// using System
+// namespace practice
+// {
+//     classs book
+//     {
+
+//       string name;
+//       int price;
+    
+
+
+
+//         static void Main(string[] args)
+//     {
+
+//     }
+//     }
+// }
