@@ -1,0 +1,15 @@
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.AssemblyInfoInputs.cache
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.AssemblyInfo.cs
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.csproj.CoreCompileInputs.cache
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.sourcelink.json
+D:\CSharp\indexers\bin\Debug\net9.0\Indexers.exe
+D:\CSharp\indexers\bin\Debug\net9.0\Indexers.deps.json
+D:\CSharp\indexers\bin\Debug\net9.0\Indexers.runtimeconfig.json
+D:\CSharp\indexers\bin\Debug\net9.0\Indexers.dll
+D:\CSharp\indexers\bin\Debug\net9.0\Indexers.pdb
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.dll
+D:\CSharp\indexers\obj\Debug\net9.0\refint\Indexers.dll
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.pdb
+D:\CSharp\indexers\obj\Debug\net9.0\Indexers.genruntimeconfig.cache
+D:\CSharp\indexers\obj\Debug\net9.0\ref\Indexers.dll
