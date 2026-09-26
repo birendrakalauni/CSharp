@@ -27,3 +27,11 @@ namespace OOP
     }
 
 }
+
+//Note: 
+/*
+Uses of base:
+-Access base class fields/properties.
+-Call base class methods.
+-Call base class constructor.
+*/
