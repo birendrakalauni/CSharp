@@ -6,8 +6,11 @@ namespace OOP
     {
         public static void Run()
         {
-            DogeshBhai doggy = new DogeshBhai();
-            doggy.sound();
+            // DogeshBhai doggy = new DogeshBhai();
+            // doggy.sound();
+
+            Animall animal = new DogeshBhai();
+            animal.sound();
         }
     }
     class Animall
