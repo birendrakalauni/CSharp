@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\OOP\\OOP.csproj": {}
+    "D:\\CSharp\\oop\\OOP.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\OOP\\OOP.csproj": {
+    "D:\\CSharp\\oop\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\CSharp\\oop\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "D:\\CSharp\\OOP\\OOP.csproj",
+        "projectPath": "D:\\CSharp\\oop\\OOP.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\OOP\\obj\\",
+        "outputPath": "D:\\CSharp\\oop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
