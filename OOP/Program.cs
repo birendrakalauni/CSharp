@@ -4,7 +4,7 @@
     {
         static void Main()  //entry point for console app
         {
-           AbstractClass.Run();
+           InterfaceExample.Run();
         }
     }
 }
