@@ -1,0 +1,15 @@
+D:\CSharp\AdvancedFeatures\bin\Debug\net9.0\AdvancedFeatures.exe
+D:\CSharp\AdvancedFeatures\bin\Debug\net9.0\AdvancedFeatures.deps.json
+D:\CSharp\AdvancedFeatures\bin\Debug\net9.0\AdvancedFeatures.runtimeconfig.json
+D:\CSharp\AdvancedFeatures\bin\Debug\net9.0\AdvancedFeatures.dll
+D:\CSharp\AdvancedFeatures\bin\Debug\net9.0\AdvancedFeatures.pdb
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.AssemblyInfoInputs.cache
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.AssemblyInfo.cs
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.csproj.CoreCompileInputs.cache
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.sourcelink.json
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.dll
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\refint\AdvancedFeatures.dll
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.pdb
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\AdvancedFeatures.genruntimeconfig.cache
+D:\CSharp\AdvancedFeatures\obj\Debug\net9.0\ref\AdvancedFeatures.dll
