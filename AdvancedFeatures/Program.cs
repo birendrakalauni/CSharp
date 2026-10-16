@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            DelegatesExample.Run();
+            EventExample.Run();
         }
     }
 }
