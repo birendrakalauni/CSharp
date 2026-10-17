@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            EventExample.Run();
+            CollectionsExample.Run();
         }
     }
 }
