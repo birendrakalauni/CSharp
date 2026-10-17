@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            CollectionsExample.Run();
+            PartialClassExample.Run();
         }
     }
 }
