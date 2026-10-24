@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            PartialClassExample.Run();
+            GenericExample.Run();
         }
     }
 }
