@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            GenericExample.Run();
+            LINQExample.Run();
         }
     }
 }
