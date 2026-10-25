@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-        ExceptionExample.Run();
+        TryCatchExample.Run();
         }
     }
 }
