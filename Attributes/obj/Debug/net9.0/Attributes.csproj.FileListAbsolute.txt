@@ -1,0 +1,15 @@
+D:\CSharp\Attributes\bin\Debug\net9.0\Attributes.exe
+D:\CSharp\Attributes\bin\Debug\net9.0\Attributes.deps.json
+D:\CSharp\Attributes\bin\Debug\net9.0\Attributes.runtimeconfig.json
+D:\CSharp\Attributes\bin\Debug\net9.0\Attributes.dll
+D:\CSharp\Attributes\bin\Debug\net9.0\Attributes.pdb
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfoInputs.cache
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.AssemblyInfo.cs
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.csproj.CoreCompileInputs.cache
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.sourcelink.json
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.dll
+D:\CSharp\Attributes\obj\Debug\net9.0\refint\Attributes.dll
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.pdb
+D:\CSharp\Attributes\obj\Debug\net9.0\Attributes.genruntimeconfig.cache
+D:\CSharp\Attributes\obj\Debug\net9.0\ref\Attributes.dll
