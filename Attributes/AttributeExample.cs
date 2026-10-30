@@ -6,7 +6,6 @@ namespace Attributes
     {
         public static void Run()
         {
-            OldMethod();
             NewMethod();
         }
         [Obsolete("Use NewMethod instead")] //OldMethod() is obsolete: 'Use NewMethod instead'
