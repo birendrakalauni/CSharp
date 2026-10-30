@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            AttributeTargetExample.Run();
+            MultipleAttributesExample.Run();
         }
     }
 }
