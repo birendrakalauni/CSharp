@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            AttributeClassExample.Run();
+            NamedAttributeExample.Run();
         }
     }
 }
