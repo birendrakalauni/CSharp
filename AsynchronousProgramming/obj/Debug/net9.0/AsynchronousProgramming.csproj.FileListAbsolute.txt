@@ -1,0 +1,15 @@
+D:\CSharp\AsynchronousProgramming\bin\Debug\net9.0\AsynchronousProgramming.exe
+D:\CSharp\AsynchronousProgramming\bin\Debug\net9.0\AsynchronousProgramming.deps.json
+D:\CSharp\AsynchronousProgramming\bin\Debug\net9.0\AsynchronousProgramming.runtimeconfig.json
+D:\CSharp\AsynchronousProgramming\bin\Debug\net9.0\AsynchronousProgramming.dll
+D:\CSharp\AsynchronousProgramming\bin\Debug\net9.0\AsynchronousProgramming.pdb
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.AssemblyInfo.cs
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.sourcelink.json
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.dll
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\refint\AsynchronousProgramming.dll
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.pdb
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\AsynchronousProgramming.genruntimeconfig.cache
+D:\CSharp\AsynchronousProgramming\obj\Debug\net9.0\ref\AsynchronousProgramming.dll
