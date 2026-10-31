@@ -5,7 +5,13 @@ namespace AsynchronousProgramming
     {
         static async Task Main()
         {
-          await  PrincipleOfAsynchronyExample.Run();
+          await  SimpleAsyncExample.Run();
+
+        //   await AsyncAwaitExample.Run();
+
+        //   await PrincipleOfAsynchronyExample.Run();
+
+          
         }
     }
 }
